@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moeninetiauth-dev-afe54-authRole",
+      "UnauthRoleArn": "arn:aws:iam::002835364305:role/amplify-moeninetiauth-dev-afe54-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::002835364305:role/amplify-moeninetiauth-dev-afe54-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-moeninetiauth-dev-afe54-deployment",
+      "UnauthRoleName": "amplify-moeninetiauth-dev-afe54-unauthRole",
+      "StackName": "amplify-moeninetiauth-dev-afe54",
+      "StackId": "arn:aws:cloudformation:eu-central-1:002835364305:stack/amplify-moeninetiauth-dev-afe54/90d9c470-942b-11ef-a3f3-0a07e4867fa1",
+      "AmplifyAppId": "d15oanv74usqh0"
+    },
+    "categories": {
+      "auth": {
+        "moeninetiautha1734c54": {
+          "userPoolId": "eu-central-1_MYqrUIncW",
+          "userPoolName": "MOE-FRANKFURT",
+          "webClientId": "6533p0vocceiuphmlpj9lorjij",
+          "nativeClientId": "6533p0vocceiuphmlpj9lorjij"
+        }
+      }
+    }
+  }
+}

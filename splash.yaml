@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#E7E3CF"
+  image: assets/MOELight.png
+  color_dark: "#3D3D3E"
+  image_dark: assets/MOEDark.png
+
+  android:false
+  web:false

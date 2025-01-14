@@ -1,0 +1,45 @@
+{
+  "auth": {
+    "moeninetiautha1734c54": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_moeninetiautha1734c54_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "moeninetiautha1734c54"
+        }
+      ]
+    },
+    "AMPLIFY_auth_moeninetiautha1734c54_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "moeninetiautha1734c54"
+        }
+      ]
+    },
+    "AMPLIFY_auth_moeninetiautha1734c54_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "moeninetiautha1734c54"
+        }
+      ]
+    },
+    "AMPLIFY_auth_moeninetiautha1734c54_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "moeninetiautha1734c54"
+        }
+      ]
+    }
+  }
+}
